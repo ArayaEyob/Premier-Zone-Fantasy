@@ -1,0 +1,787 @@
+Player,Nation,Pos,Age,MP,Starts,Min,Gls,Ast,PK,CrdY,CrdR,xG,npxG,Team
+Rodri,es ESP,MF,27,34,34,2931,8,9,0,8,1,4,4,Manchester-City-
+Phil Foden,eng ENG,"FW,MF",23,35,33,2857,19,8,0,2,0,10,10,Manchester-City-
+Ederson,br BRA,GK,29,33,33,2785,0,0,0,5,0,0,0,Manchester-City-
+Julián Álvarez,ar ARG,"MF,FW",23,36,31,2647,11,8,2,2,0,13,11,Manchester-City-
+Kyle Walker,eng ENG,DF,33,32,30,2767,0,4,0,2,0,0,0,Manchester-City-
+Bernardo Silva,pt POR,"MF,FW",28,33,29,2578,6,9,0,8,0,3,3,Manchester-City-
+Erling Haaland,no NOR,FW,23,31,29,2552,27,5,7,1,0,29,22,Manchester-City-
+Rúben Dias,pt POR,DF,26,30,28,2559,0,0,0,0,0,1,1,Manchester-City-
+Manuel Akanji,ch SUI,"DF,MF",28,30,28,2511,2,0,0,4,1,1,1,Manchester-City-
+Joško Gvardiol,hr CRO,DF,21,28,26,2328,4,1,0,3,0,3,3,Manchester-City-
+Nathan Aké,nl NED,DF,28,29,24,2042,2,2,0,0,0,2,2,Manchester-City-
+Jeremy Doku,be BEL,"FW,MF",21,29,18,1595,3,8,0,3,0,2,2,Manchester-City-
+Mateo Kovačić,hr CRO,MF,29,30,16,1551,1,0,0,4,0,1,1,Manchester-City-
+Kevin De Bruyne,be BEL,MF,32,18,15,1221,4,10,0,2,0,2,2,Manchester-City-
+John Stones,eng ENG,"DF,MF",29,16,12,1064,1,0,0,2,0,1,1,Manchester-City-
+Jack Grealish,eng ENG,"FW,MF",27,20,10,1009,3,1,0,6,0,2,2,Manchester-City-
+Rico Lewis,eng ENG,"DF,MF",18,16,8,809,2,0,0,1,0,0,0,Manchester-City-
+Matheus Nunes,pt POR,MF,24,17,7,661,0,2,0,0,0,0,0,Manchester-City-
+Stefan Ortega,de GER,GK,30,9,5,635,0,0,0,0,0,0,0,Manchester-City-
+Oscar Bobb,no NOR,"FW,MF",20,14,2,302,1,1,0,0,0,1,1,Manchester-City-
+Kalvin Phillips,eng ENG,MF,27,4,0,93,0,0,0,0,0,0,0,Manchester-City-
+Sergio Gómez,es ESP,"FW,MF",22,6,0,53,0,1,0,0,0,0,0,Manchester-City-
+Aymeric Laporte,es ESP,DF,29,1,0,12,0,0,0,0,0,0,0,Manchester-City-
+Cole Palmer,eng ENG,MF,21,1,0,11,0,0,0,0,0,0,0,Manchester-City-
+James Mcatee,eng ENG,MF,20,1,0,1,0,0,0,0,0,0,0,Manchester-City-
+Scott Carson,eng ENG,GK,37,0,0,0,0,0,0,0,0,0,0,Manchester-City-
+Micah Hamilton,eng ENG,MF,19,0,0,0,0,0,0,0,0,0,0,Manchester-City-
+Máximo Perrone,ar ARG,MF,20,0,0,0,0,0,0,0,0,0,0,Manchester-City-
+Mahamadou Susoho,es ESP,DF,18,0,0,0,0,0,0,0,0,0,0,Manchester-City-
+Jacob Wright,eng ENG,MF,17,0,0,0,0,0,0,0,0,0,0,Manchester-City-
+Squad Total,NULL,NULL,26,38,418,3420,94,69,9,53,2,80,72,Manchester-City-
+Opponent Total,NULL,NULL,26,38,418,3420,33,23,3,93,2,35,33,Manchester-City-
+William Saliba,fr FRA,DF,22,0,38,3420,2,1,0,4,0,1,1,Arsenal-
+Declan Rice,eng ENG,MF,24,0,37,3225,7,8,0,5,0,3,3,Arsenal-
+Martin Ødegaard,no NOR,MF,24,0,35,3091,8,10,2,2,0,7,5,Arsenal-
+Ben White,eng ENG,DF,25,0,35,2988,4,4,0,8,0,1,1,Arsenal-
+Bukayo Saka,eng ENG,FW,21,0,35,2919,16,9,6,4,0,15,10,Arsenal-
+Gabriel Magalhães,br BRA,DF,25,0,34,3044,4,0,0,4,0,4,4,Arsenal-
+David Raya,es ESP,GK,27,0,32,2880,0,0,0,2,0,0,0,Arsenal-
+Kai Havertz,de GER,"MF,FW",24,0,30,2634,13,7,1,11,0,12,11,Arsenal-
+Gabriel Martinelli,br BRA,FW,22,0,24,2019,6,4,0,1,0,6,6,Arsenal-
+Oleksandr Zinchenko,ua UKR,DF,26,0,20,1722,1,2,0,2,0,0,0,Arsenal-
+Leandro Trossard,be BEL,"FW,MF",28,0,18,1649,12,1,0,2,0,7,7,Arsenal-
+Gabriel Jesus,br BRA,FW,26,0,17,1478,4,5,0,6,0,6,6,Arsenal-
+Jakub Kiwior,pl POL,DF,23,0,11,946,1,3,0,1,0,0,0,Arsenal-
+Takehiro Tomiyasu,jp JPN,DF,24,0,10,1149,2,1,0,2,1,1,1,Arsenal-
+Eddie Nketiah,eng ENG,FW,24,0,10,1082,5,2,0,3,0,4,4,Arsenal-
+Jorginho,it ITA,MF,31,0,10,921,0,2,0,1,0,0,0,Arsenal-
+Thomas Partey,gh GHA,"MF,DF",30,0,9,788,0,0,0,3,0,0,0,Arsenal-
+Aaron Ramsdale,eng ENG,GK,25,0,6,540,0,0,0,0,0,0,0,Arsenal-
+Emile Smith Rowe,eng ENG,MF,23,0,3,353,0,1,0,0,0,2,2,Arsenal-
+Fabio Vieira,pt POR,"MF,FW",23,0,2,297,1,2,1,0,1,1,0,Arsenal-
+Reiss Nelson,eng ENG,FW,23,0,1,268,0,0,0,1,0,0,0,Arsenal-
+Jurriën Timber,nl NED,DF,22,0,1,71,0,0,0,2,0,0,0,Arsenal-
+Cédric Soares,pt POR,DF,31,0,0,62,0,0,0,0,0,0,0,Arsenal-
+Mohamed Elneny,eg EGY,MF,31,0,0,28,0,0,0,0,0,0,0,Arsenal-
+Ethan Nwaneri,eng ENG,FW,16,0,0,14,0,0,0,0,0,0,0,Arsenal-
+Mauro Bandeira,pt POR,MF,19,0,0,0,0,0,0,0,0,0,0,Arsenal-
+Bradley Ibrahim,eng ENG,MF,18,0,0,0,0,0,0,0,0,0,0,Arsenal-
+Karl Jakob Hein,ee EST,GK,21,0,0,0,0,0,0,0,0,0,0,Arsenal-
+Myles Lewis-Skelly,eng ENG,MF,16,0,0,0,0,0,0,0,0,0,0,Arsenal-
+Charles Sagoe Jr,eng ENG,FW,19,0,0,0,0,0,0,0,0,0,0,Arsenal-
+James Sweet,wls WAL,DF,19,0,0,0,0,0,0,0,0,0,0,Arsenal-
+Reuell Walters,eng ENG,DF,18,0,0,0,0,0,0,0,0,0,0,Arsenal-
+Squad Total,NULL,NULL,25,0,418,3420,86,62,10,64,2,76,68,Arsenal-
+Opponent Total,NULL,NULL,26,0,418,3420,28,20,2,82,2,27,25,Arsenal-
+Virgil van Dijk,nl NED,DF,32,36,36,3177,2,2,0,3,1,2,2,Liverpool-
+Luis Díaz,co COL,FW,26,37,32,2629,8,5,0,3,0,11,11,Liverpool-
+Alexis Mac Allister,ar ARG,MF,24,33,31,2599,5,5,1,7,1,3,2,Liverpool-
+Mohamed Salah,eg EGY,FW,31,32,28,2534,18,10,5,2,0,21,15,Liverpool-
+Alisson,br BRA,GK,30,28,28,2520,0,0,0,1,0,0,0,Liverpool-
+Trent Alexander-Arnold,eng ENG,DF,24,28,25,2155,3,4,0,6,0,2,2,Liverpool-
+Dominik Szoboszlai,hu HUN,MF,22,33,25,2104,3,2,0,1,0,3,3,Liverpool-
+Darwin Núñez,uy URU,FW,24,36,22,2047,11,8,0,9,0,16,15,Liverpool-
+Wataru Endo,jp JPN,MF,30,29,20,1722,1,0,0,10,0,0,0,Liverpool-
+Andrew Robertson,sct SCO,DF,29,23,18,1693,3,2,0,2,0,1,1,Liverpool-
+Joe Gomez,eng ENG,DF,26,32,17,1786,0,1,0,5,0,0,0,Liverpool-
+Cody Gakpo,nl NED,"FW,MF",24,35,17,1649,8,5,0,1,0,9,9,Liverpool-
+Ibrahima Konaté,fr FRA,DF,24,22,17,1574,0,0,0,5,1,0,0,Liverpool-
+Curtis Jones,eng ENG,MF,22,23,14,1167,1,1,0,3,1,2,2,Liverpool-
+Diogo Jota,pt POR,FW,26,21,14,1145,10,3,0,3,1,5,5,Liverpool-
+Jarell Quansah,eng ENG,DF,20,17,13,1190,2,0,0,1,0,1,1,Liverpool-
+Ryan Gravenberch,nl NED,MF,21,26,12,1121,1,0,0,0,0,2,2,Liverpool-
+Harvey Elliott,eng ENG,"MF,FW",20,34,11,1352,3,6,0,2,0,2,2,Liverpool-
+Caoimhín Kelleher,ie IRL,GK,24,10,10,900,0,0,0,0,0,0,0,Liverpool-
+Conor Bradley,nir NIR,DF,20,11,10,753,1,3,0,2,0,0,0,Liverpool-
+Joël Matip,cm CMR,DF,31,10,9,781,0,0,0,2,0,0,0,Liverpool-
+Kostas Tsimikas,gr GRE,DF,27,13,8,679,0,3,0,0,0,0,0,Liverpool-
+Bobby Clark,eng ENG,MF,18,5,1,89,0,0,0,0,0,0,0,Liverpool-
+Stefan Bajcetic,es ESP,MF,18,1,0,26,0,0,0,0,0,0,0,Liverpool-
+Ben Doak,sct SCO,FW,17,1,0,14,0,0,0,0,0,0,0,Liverpool-
+Jayden Danns,eng ENG,FW,17,2,0,9,0,0,0,1,0,0,0,Liverpool-
+Owen Beck,wls WAL,DF,20,1,0,8,0,0,0,0,0,0,0,Liverpool-
+Thiago Alcántara,es ESP,MF,32,1,0,6,0,0,0,0,0,0,0,Liverpool-
+James McConnell,eng ENG,MF,18,3,0,4,0,0,0,0,0,0,0,Liverpool-
+Kaide Gordon,eng ENG,FW,18,1,0,1,0,0,0,0,0,0,0,Liverpool-
+Adrián,es ESP,GK,36,0,0,0,0,0,0,0,0,0,0,Liverpool-
+Luke Chambers,eng ENG,DF,19,0,0,0,0,0,0,0,0,0,0,Liverpool-
+Lewis Koumas,wls WAL,MF,17,0,0,0,0,0,0,0,0,0,0,Liverpool-
+Fabian Mrozek,pl POL,GK,19,0,0,0,0,0,0,0,0,0,0,Liverpool-
+Amara Nallo,eng ENG,DF,16,0,0,0,0,0,0,0,0,0,0,Liverpool-
+Trey Nyoni,eng ENG,MF,16,0,0,0,0,0,0,0,0,0,0,Liverpool-
+Marcelo Pitaluga,br BRA,GK,20,0,0,0,0,0,0,0,0,0,0,Liverpool-
+Calum Scanlon,eng ENG,MF,18,0,0,0,0,0,0,0,0,0,0,Liverpool-
+Squad Total,NULL,NULL,26,38,418,3420,80,60,6,69,5,87,80,Liverpool-
+Opponent Total,NULL,NULL,26,38,418,3420,39,27,1,98,4,45,45,Liverpool-
+Ollie Watkins,eng ENG,FW,27,37,37,3217,19,13,0,4,0,16,16,Aston-Villa-
+Ezri Konsa,eng ENG,DF,25,35,35,3069,1,0,0,5,0,2,2,Aston-Villa-
+John McGinn,sct SCO,"MF,FW",28,35,35,2999,6,4,0,9,1,5,5,Aston-Villa-
+Douglas Luiz,br BRA,MF,25,35,35,2993,9,5,4,12,0,6,3,Aston-Villa-
+Emiliano Martínez,ar ARG,GK,30,34,34,3015,0,0,0,4,0,0,0,Aston-Villa-
+Pau Torres,es ESP,DF,26,29,27,2464,2,0,0,1,0,1,1,Aston-Villa-
+Lucas Digne,fr FRA,DF,30,33,27,2410,1,3,0,7,0,1,1,Aston-Villa-
+Moussa Diaby,fr FRA,"FW,MF",24,38,25,2174,6,8,0,1,0,7,7,Aston-Villa-
+Matty Cash,pl POL,DF,25,29,23,2142,2,2,0,8,0,4,4,Aston-Villa-
+Leon Bailey,jm JAM,"MF,FW",25,35,22,2068,10,9,0,5,0,6,6,Aston-Villa-
+Diego Carlos,br BRA,DF,30,27,20,1816,0,0,0,4,0,1,1,Aston-Villa-
+Boubacar Kamara,fr FRA,MF,23,20,20,1652,0,1,0,7,1,0,0,Aston-Villa-
+Youri Tielemans,be BEL,"MF,FW",26,32,17,1622,2,6,0,3,0,1,1,Aston-Villa-
+Clément Lenglet,fr FRA,DF,28,14,14,1153,0,1,0,3,0,0,0,Aston-Villa-
+Álex Moreno,es ESP,DF,30,21,11,1031,2,0,0,2,0,1,1,Aston-Villa-
+Nicolò Zaniolo,it ITA,"FW,MF",24,25,9,839,2,0,0,7,0,2,2,Aston-Villa-
+Jacob Ramsey,eng ENG,"FW,MF",22,16,8,853,1,1,0,2,0,2,2,Aston-Villa-
+Morgan Rogers,eng ENG,"MF,FW",21,11,8,638,3,1,0,3,0,1,1,Aston-Villa-
+Robin Olsen,se SWE,GK,33,5,4,405,0,0,0,0,0,0,0,Aston-Villa-
+Jhon Durán,co COL,"FW,MF",19,23,3,475,5,0,0,5,0,2,2,Aston-Villa-
+Tim Iroegbunam,eng ENG,MF,20,9,1,164,0,0,0,0,0,0,0,Aston-Villa-
+Calum Chambers,eng ENG,"MF,DF",28,5,1,152,0,1,0,1,0,0,0,Aston-Villa-
+Leander Dendoncker,be BEL,MF,28,8,1,119,1,0,0,0,0,0,0,Aston-Villa-
+Tyrone Mings,eng ENG,DF,30,1,1,30,0,0,0,0,0,0,0,Aston-Villa-
+Omari Kellyman,eng ENG,FW,17,2,0,37,0,0,0,0,0,0,0,Aston-Villa-
+Philippe Coutinho,br BRA,"MF,FW",31,2,0,25,0,0,0,0,0,0,0,Aston-Villa-
+Bertrand Traoré,bf BFA,"DF,FW",27,2,0,11,0,0,0,0,0,0,0,Aston-Villa-
+Cameron Archer,eng ENG,MF,22,1,0,6,0,0,0,1,0,0,0,Aston-Villa-
+Kaine Kesler-Hayden,eng ENG,"MF,DF",20,3,0,6,0,0,0,0,0,0,0,Aston-Villa-
+Finley Munroe,eng ENG,MF,18,1,0,4,0,0,0,0,0,0,0,Aston-Villa-
+Jaden Philogene Bidace,eng ENG,FW,21,1,0,4,0,0,0,0,0,0,0,Aston-Villa-
+Lander Emery,NULL,GK,0,0,0,0,0,0,0,0,0,0,0,Aston-Villa-
+Joe Gauci,au AUS,GK,23,0,0,0,0,0,0,0,0,0,0,Aston-Villa-
+Filip Marshall,eng ENG,GK,20,0,0,0,0,0,0,0,0,0,0,Aston-Villa-
+Tommi O'Reilly,eng ENG,MF,19,0,0,0,0,0,0,0,0,0,0,Aston-Villa-
+Sam Proctor,eng ENG,GK,16,0,0,0,0,0,0,0,0,0,0,Aston-Villa-
+James Wright,eng ENG,GK,18,0,0,0,0,0,0,0,0,0,0,Aston-Villa-
+Kadan Young,eng ENG,MF,17,0,0,0,0,0,0,0,0,0,0,Aston-Villa-
+Oliwier Zych,pl POL,GK,19,0,0,0,0,0,0,0,0,0,0,Aston-Villa-
+Squad Total,NULL,NULL,26,38,418,3420,72,55,4,94,2,63,60,Aston-Villa-
+Opponent Total,NULL,NULL,26,38,418,3420,57,45,1,94,4,59,58,Aston-Villa-
+Guglielmo Vicario,it ITA,GK,26,38,38,3420,0,0,0,2,0,0,0,Tottenham-Hotspur-
+Pedro Porro,es ESP,DF,23,35,35,3089,3,7,0,3,0,2,2,Tottenham-Hotspur-
+Son Heung-min,kr KOR,FW,31,35,34,2934,17,10,2,1,0,12,10,Tottenham-Hotspur-
+Cristian Romero,ar ARG,DF,25,33,33,2790,5,0,0,7,1,3,3,Tottenham-Hotspur-
+Dejan Kulusevski,se SWE,"FW,MF",23,36,31,2762,8,3,0,7,0,4,4,Tottenham-Hotspur-
+Destiny Udogie,it ITA,DF,20,28,28,2391,2,3,0,7,1,2,2,Tottenham-Hotspur-
+Micky van de Ven,nl NED,DF,22,27,27,2339,3,0,0,5,0,0,0,Tottenham-Hotspur-
+Pape Matar Sarr,sn SEN,MF,20,34,27,2069,3,3,0,9,0,3,3,Tottenham-Hotspur-
+James Maddison,eng ENG,MF,26,28,26,2135,4,9,0,5,0,6,6,Tottenham-Hotspur-
+Yves Bissouma,ml MLI,MF,26,28,26,2068,0,0,0,10,2,1,1,Tottenham-Hotspur-
+Brennan Johnson,wls WAL,FW,22,32,23,2085,5,10,0,3,0,10,10,Tottenham-Hotspur-
+Richarlison,br BRA,FW,26,28,18,1491,11,4,0,3,0,9,9,Tottenham-Hotspur-
+Rodrigo Bentancur,uy URU,MF,26,23,13,1005,1,1,0,7,0,1,1,Tottenham-Hotspur-
+Ben Davies,wls WAL,DF,30,17,12,1090,1,0,0,2,0,2,2,Tottenham-Hotspur-
+Emerson,br BRA,DF,24,22,11,1161,1,0,0,4,0,0,0,Tottenham-Hotspur-
+Timo Werner,de GER,FW,27,13,10,809,2,3,0,1,0,3,3,Tottenham-Hotspur-
+Pierre Højbjerg,dk DEN,MF,27,36,8,1311,0,0,0,4,0,0,0,Tottenham-Hotspur-
+Oliver Skipp,eng ENG,"MF,DF",22,21,5,707,0,0,0,3,0,0,0,Tottenham-Hotspur-
+Giovani Lo Celso,ar ARG,MF,27,22,4,506,2,2,0,2,0,0,0,Tottenham-Hotspur-
+Radu Drăgușin,ro ROU,DF,21,9,4,429,0,0,0,1,0,0,0,Tottenham-Hotspur-
+Bryan Gil,es ESP,"FW,MF",22,11,2,209,0,0,0,0,0,0,0,Tottenham-Hotspur-
+Manor Solomon,il ISR,FW,24,5,2,199,0,2,0,1,0,0,0,Tottenham-Hotspur-
+Eric Dier,eng ENG,DF,29,4,1,201,0,0,0,0,0,0,0,Tottenham-Hotspur-
+Ivan Perišić,hr CRO,FW,34,5,0,103,0,1,0,2,0,0,0,Tottenham-Hotspur-
+Davinson Sánchez,co COL,DF,27,1,0,77,0,0,0,1,0,0,0,Tottenham-Hotspur-
+Alejo Véliz,ar ARG,FW,19,8,0,50,1,0,0,1,0,0,0,Tottenham-Hotspur-
+Dane Scarlett,eng ENG,FW,19,4,0,22,0,0,0,0,0,0,0,Tottenham-Hotspur-
+Mikey Moore,eng ENG,MF,15,2,0,4,0,0,0,0,0,0,0,Tottenham-Hotspur-
+Jamie Donley,eng ENG,FW,18,3,0,3,0,0,0,1,0,0,0,Tottenham-Hotspur-
+Brandon Austin,eng ENG,GK,24,0,0,0,0,0,0,0,0,0,0,Tottenham-Hotspur-
+Alfie Dorrington,eng ENG,DF,18,0,0,0,0,0,0,0,0,0,0,Tottenham-Hotspur-
+Fraser Forster,eng ENG,GK,35,0,0,0,0,0,0,0,0,0,0,Tottenham-Hotspur-
+Tyrese Hall,eng ENG,MF,17,0,0,0,0,0,0,0,0,0,0,Tottenham-Hotspur-
+Ashley Phillips,wls WAL,DF,18,0,0,0,0,0,0,0,0,0,0,Tottenham-Hotspur-
+Yago Santiago,es ESP,"FW,MF",20,0,0,0,0,0,0,0,0,0,0,Tottenham-Hotspur-
+Alfie Whiteman,eng ENG,GK,24,0,0,0,0,0,0,0,0,0,0,Tottenham-Hotspur-
+Squad Total,NULL,NULL,25,38,418,3420,69,58,2,92,4,68,66,Tottenham-Hotspur-
+Opponent Total,NULL,NULL,26,38,418,3420,58,39,7,100,4,63,58,Tottenham-Hotspur-
+Conor Gallagher,eng ENG,MF,23,37,37,3128,5,7,0,9,1,4,4,Chelsea-
+Moisés Caicedo,ec ECU,MF,21,35,33,2866,1,3,0,11,0,0,0,Chelsea-
+Nicolas Jackson,sn SEN,FW,22,35,31,2799,14,5,0,10,0,18,18,Chelsea-
+Cole Palmer,eng ENG,"FW,MF",21,33,29,2607,22,11,9,7,0,18,11,Chelsea-
+Axel Disasi,fr FRA,DF,25,31,29,2579,2,0,0,6,0,2,2,Chelsea-
+Thiago Silva,br BRA,DF,38,31,28,2527,3,1,0,4,0,0,0,Chelsea-
+Enzo Fernández,ar ARG,MF,22,28,26,2209,3,2,1,7,0,6,4,Chelsea-
+Đorđe Petrović,rs SRB,GK,23,23,22,1987,0,0,0,2,0,0,0,Chelsea-
+Raheem Sterling,eng ENG,"FW,MF",28,31,22,1978,8,4,0,7,0,6,6,Chelsea-
+Levi Colwill,eng ENG,DF,20,23,20,1797,1,1,0,2,0,1,1,Chelsea-
+Marc Cucurella,es ESP,DF,25,21,20,1782,0,2,0,10,0,1,1,Chelsea-
+Malo Gusto,fr FRA,DF,20,27,19,1751,0,6,0,7,1,0,0,Chelsea-
+Mykhailo Mudryk,ua UKR,FW,22,31,18,1576,5,2,0,5,0,4,4,Chelsea-
+Robert Sánchez,es ESP,GK,25,16,16,1433,0,0,0,2,0,0,0,Chelsea-
+Benoît Badiashile,fr FRA,DF,22,18,15,1338,0,1,0,3,0,0,0,Chelsea-
+Noni Madueke,eng ENG,FW,21,23,13,1053,5,2,1,2,0,2,1,Chelsea-
+Trevoh Chalobah,eng ENG,DF,24,13,10,952,1,0,0,1,0,0,0,Chelsea-
+Ben Chilwell,eng ENG,DF,26,13,9,756,0,1,0,5,0,1,1,Chelsea-
+Armando Broja,al ALB,FW,21,13,6,454,1,0,0,0,0,2,2,Chelsea-
+Reece James,eng ENG,DF,23,10,5,419,0,2,0,2,2,0,0,Chelsea-
+Lesley Ugochukwu,fr FRA,MF,19,12,3,301,0,0,0,2,0,0,0,Chelsea-
+Christopher Nkunku,fr FRA,"FW,MF",25,11,2,443,3,0,0,0,0,2,2,Chelsea-
+Carney Chukwuemeka,eng ENG,"MF,FW",19,9,2,227,1,1,0,2,0,0,0,Chelsea-
+Alfie Gilchrist,eng ENG,DF,19,11,2,207,1,0,0,1,0,0,0,Chelsea-
+Ian Maatsen,nl NED,"FW,MF",21,12,1,209,0,0,0,1,0,0,0,Chelsea-
+Cesare Casadei,it ITA,"FW,MF",20,11,0,79,0,0,0,0,0,0,0,Chelsea-
+Roméo Lavia,be BEL,MF,19,1,0,33,0,0,0,0,0,0,0,Chelsea-
+Deivid Washington,br BRA,"DF,FW",18,2,0,13,0,0,0,0,0,0,0,Chelsea-
+Mason Burstow,eng ENG,FW,19,2,0,9,0,0,0,0,0,0,0,Chelsea-
+Joshua Acheampong,eng ENG,DF,17,1,0,6,0,0,0,0,0,0,0,Chelsea-
+Alex Matos,eng ENG,MF,18,1,0,1,0,0,0,0,0,0,0,Chelsea-
+Jimi Tauriainen,eng ENG,FW,19,1,0,1,0,0,0,0,0,0,0,Chelsea-
+Marcus Bettinelli,eng ENG,GK,31,0,0,0,0,0,0,1,0,0,0,Chelsea-
+Eddie Beach,wls WAL,GK,19,0,0,0,0,0,0,0,0,0,0,Chelsea-
+Lucas Bergström,fi FIN,GK,20,0,0,0,0,0,0,0,0,0,0,Chelsea-
+Joshua Brooking,eng ENG,DF,20,0,0,0,0,0,0,0,0,0,0,Chelsea-
+Leo Castledine,eng ENG,MF,17,0,0,0,0,0,0,0,0,0,0,Chelsea-
+Ted Curd,eng ENG,GK,17,0,0,0,0,0,0,0,0,0,0,Chelsea-
+Kiano Dyer,eng ENG,MF,16,0,0,0,0,0,0,0,0,0,0,Chelsea-
+Tyrique George,eng ENG,FW,17,0,0,0,0,0,0,0,0,0,0,Chelsea-
+Ollie Harrison,eng ENG,MF,15,0,0,0,0,0,0,0,0,0,0,Chelsea-
+Bashir Humphreys,eng ENG,DF,20,0,0,0,0,0,0,0,0,0,0,Chelsea-
+Diego Moreira,pt POR,MF,18,0,0,0,0,0,0,0,0,0,0,Chelsea-
+Ishé Samuels-Smith,eng ENG,DF,17,0,0,0,0,0,0,0,0,0,0,Chelsea-
+Andrey Santos,br BRA,MF,19,0,0,0,0,0,0,0,0,0,0,Chelsea-
+Teddy Sharman,eng ENG,GK,20,0,0,0,0,0,0,0,0,0,0,Chelsea-
+Zak Sturge,eng ENG,DF,19,0,0,0,0,0,0,0,0,0,0,Chelsea-
+Ronnie Stutter,eng ENG,FW,18,0,0,0,0,0,0,0,0,0,0,Chelsea-
+Squad Total,NULL,NULL,24,38,418,3420,76,51,11,109,4,74,65,Chelsea-
+Opponent Total,NULL,NULL,26,38,418,3420,60,43,3,100,4,58,54,Chelsea-
+Bruno Guimarães,br BRA,MF,25,0,37,3263,7,8,0,9,0,4,4,Newcastle-United-
+Fabian Schär,ch SUI,DF,31,0,35,3054,4,1,0,5,0,2,2,Newcastle-United-
+Anthony Gordon,eng ENG,FW,22,0,34,2890,11,10,1,12,1,10,9,Newcastle-United-
+Dan Burn,eng ENG,DF,31,0,32,2726,2,2,0,4,0,3,3,Newcastle-United-
+Sean Longstaff,eng ENG,MF,25,0,30,2747,6,2,0,7,0,6,6,Newcastle-United-
+Alexander Isak,se SWE,FW,23,0,27,2255,21,2,5,1,0,20,15,Newcastle-United-
+Kieran Trippier,eng ENG,DF,32,0,26,2236,1,10,0,5,0,0,0,Newcastle-United-
+Miguel Almirón,py PAR,FW,29,0,23,1937,3,1,0,2,0,4,4,Newcastle-United-
+Martin Dúbravka,sk SVK,GK,34,0,22,1985,0,0,0,1,0,0,0,Newcastle-United-
+Sven Botman,nl NED,DF,23,0,15,1377,2,2,0,2,0,0,0,Newcastle-United-
+Nick Pope,eng ENG,GK,31,0,15,1345,0,0,0,1,0,0,0,Newcastle-United-
+Joelinton,br BRA,"MF,FW",26,0,15,1279,2,1,0,6,0,3,3,Newcastle-United-
+Lewis Miley,eng ENG,MF,17,0,14,1202,1,3,0,1,0,1,1,Newcastle-United-
+Jacob Murphy,eng ENG,"FW,DF",28,0,14,1189,3,7,0,1,0,2,2,Newcastle-United-
+Jamaal Lascelles,eng ENG,DF,29,0,13,1080,1,0,0,4,0,0,0,Newcastle-United-
+Valentino Livramento,eng ENG,DF,20,0,12,1314,1,0,0,1,0,0,0,Newcastle-United-
+Elliot Anderson,sct SCO,"MF,FW",20,0,10,1027,0,2,0,3,0,1,1,Newcastle-United-
+Callum Wilson,eng ENG,FW,31,0,9,991,9,1,2,3,0,8,7,Newcastle-United-
+Emil Krafth,se SWE,DF,28,0,8,913,0,0,0,2,0,0,0,Newcastle-United-
+Lewis Hall,eng ENG,DF,18,0,8,781,1,0,0,2,0,0,0,Newcastle-United-
+Harvey Barnes,eng ENG,"FW,MF",25,0,7,802,5,3,0,2,0,3,3,Newcastle-United-
+Sandro Tonali,it ITA,MF,23,0,5,438,1,0,0,2,0,0,0,Newcastle-United-
+Joe Willock,eng ENG,MF,23,0,5,419,1,0,0,0,0,0,0,Newcastle-United-
+Loris Karius,de GER,GK,30,0,1,90,0,0,0,0,0,0,0,Newcastle-United-
+Matt Targett,eng ENG,DF,27,0,1,78,0,0,0,1,0,0,0,Newcastle-United-
+Matt Ritchie,sct SCO,"FW,MF",33,0,0,128,1,0,0,1,0,1,1,Newcastle-United-
+Ben Parkinson,eng ENG,FW,18,0,0,25,0,0,0,0,0,0,0,Newcastle-United-
+Paul Dummett,wls WAL,DF,31,0,0,20,0,0,0,0,0,0,0,Newcastle-United-
+Alex Murphy,ie IRL,"DF,FW",19,0,0,13,0,0,0,0,0,0,0,Newcastle-United-
+Joe White,eng ENG,MF,20,0,0,13,0,0,0,1,0,0,0,Newcastle-United-
+Amadou Diallo,eng ENG,MF,20,0,0,1,0,0,0,0,0,0,0,Newcastle-United-
+Michael Ndiweni,eng ENG,FW,19,0,0,1,0,0,0,0,0,0,0,Newcastle-United-
+Mark Gillespie,eng ENG,GK,31,0,0,0,0,0,0,0,0,0,0,Newcastle-United-
+Travis Hearnes,eng ENG,MF,17,0,0,0,0,0,0,0,0,0,0,Newcastle-United-
+Javier Manquillo,es ESP,DF,29,0,0,0,0,0,0,0,0,0,0,Newcastle-United-
+Squad Total,NULL,NULL,27,0,418,3420,83,55,8,79,1,76,69,Newcastle-United-
+Opponent Total,NULL,NULL,26,0,418,3420,61,47,4,97,3,61,57,Newcastle-United-
+André Onana,cm CMR,GK,27,38,38,3420,0,0,0,5,0,0,0,Manchester-United-
+Diogo Dalot,pt POR,DF,24,36,35,3174,2,3,0,6,1,1,1,Manchester-United-
+Bruno Fernandes,pt POR,"MF,FW",28,35,35,3118,10,8,4,9,0,10,6,Manchester-United-
+Alejandro Garnacho,ar ARG,FW,19,36,30,2565,7,4,0,4,0,8,8,Manchester-United-
+Marcus Rashford,eng ENG,FW,25,33,26,2271,7,2,2,2,0,7,5,Manchester-United-
+Rasmus Højlund,dk DEN,FW,20,30,25,2158,10,2,0,2,0,7,7,Manchester-United-
+Casemiro,br BRA,"MF,DF",31,25,24,1982,1,2,0,7,0,3,3,Manchester-United-
+Kobbie Mainoo,eng ENG,MF,18,24,24,1924,3,1,0,3,0,0,0,Manchester-United-
+Aaron Wan-Bissaka,eng ENG,DF,25,22,20,1780,0,2,0,4,0,0,0,Manchester-United-
+Scott McTominay,sct SCO,"MF,FW",26,32,18,1901,7,1,0,2,0,5,5,Manchester-United-
+Harry Maguire,eng ENG,DF,30,22,18,1653,2,2,0,4,0,2,2,Manchester-United-
+Raphaël Varane,fr FRA,DF,30,22,16,1375,1,0,0,2,0,1,1,Manchester-United-
+Jonny Evans,nir NIR,DF,35,23,15,1392,0,1,0,2,0,0,0,Manchester-United-
+Antony,br BRA,FW,23,29,15,1324,1,1,0,5,0,3,3,Manchester-United-
+Victor Lindelöf,se SWE,DF,29,19,14,1328,1,1,0,2,0,0,0,Manchester-United-
+Christian Eriksen,dk DEN,MF,31,22,12,1141,1,2,0,1,0,1,1,Manchester-United-
+Luke Shaw,eng ENG,DF,28,12,12,959,0,0,0,6,0,0,0,Manchester-United-
+Sofyan Amrabat,ma MAR,"MF,DF",26,21,10,938,0,0,0,6,0,0,0,Manchester-United-
+Lisandro Martínez,ar ARG,DF,25,11,8,646,0,1,0,3,0,0,0,Manchester-United-
+Mason Mount,eng ENG,"MF,FW",24,14,5,516,1,0,0,2,0,0,0,Manchester-United-
+Anthony Martial,fr FRA,FW,27,13,5,448,1,0,0,0,0,1,1,Manchester-United-
+Sergio Reguilón,es ESP,DF,26,9,4,412,0,0,0,3,0,0,0,Manchester-United-
+Amad Diallo,ci CIV,"FW,MF",21,9,3,390,1,1,0,1,0,0,0,Manchester-United-
+Willy Kambwala,fr FRA,DF,18,8,3,330,0,0,0,1,0,0,0,Manchester-United-
+Facundo Pellistri,uy URU,"FW,MF",21,9,1,172,0,1,0,0,0,0,0,Manchester-United-
+Hannibal Mejbri,tn TUN,"MF,FW",20,5,1,133,1,0,0,1,0,0,0,Manchester-United-
+Omari Forson,eng ENG,FW,19,4,1,70,0,1,0,0,0,0,0,Manchester-United-
+Jadon Sancho,eng ENG,"FW,MF",23,3,0,79,0,0,0,0,0,0,0,Manchester-United-
+Ethan Wheatley,eng ENG,FW,17,3,0,16,0,0,0,0,0,0,0,Manchester-United-
+Donny van de Beek,nl NED,DF,26,1,0,3,0,0,0,0,0,0,0,Manchester-United-
+Daniel Gore,eng ENG,MF,18,1,0,1,0,0,0,0,0,0,0,Manchester-United-
+Harry Amass,eng ENG,DF,16,0,0,0,0,0,0,0,0,0,0,Manchester-United-
+Altay Bayındır,tr TUR,GK,25,0,0,0,0,0,0,0,0,0,0,Manchester-United-
+Rhys Bennett,eng ENG,DF,19,0,0,0,0,0,0,0,0,0,0,Manchester-United-
+Álvaro Carreras,es ESP,"DF,MF",20,0,0,0,0,0,0,0,0,0,0,Manchester-United-
+Toby Collyer,eng ENG,MF,19,0,0,0,0,0,0,0,0,0,0,Manchester-United-
+Tom Heaton,eng ENG,GK,37,0,0,0,0,0,0,0,0,0,0,Manchester-United-
+Dean Henderson,eng ENG,GK,26,0,0,0,0,0,0,0,0,0,0,Manchester-United-
+Joe Hugill,eng ENG,FW,19,0,0,0,0,0,0,0,0,0,0,Manchester-United-
+Louis Jackson,sct SCO,DF,17,0,0,0,0,0,0,0,0,0,0,Manchester-United-
+Dermot Mee,nir NIR,GK,20,0,0,0,0,0,0,0,0,0,0,Manchester-United-
+Habeeb Ogunneye,eng ENG,DF,18,0,0,0,0,0,0,0,0,0,0,Manchester-United-
+Radek Vítek,NULL,GK,19,0,0,0,0,0,0,0,0,0,0,Manchester-United-
+Squad Total,NULL,NULL,26,38,418,3420,57,36,6,83,1,56,51,Manchester-United-
+Opponent Total,NULL,NULL,26,38,418,3420,57,39,7,85,1,68,63,Manchester-United-
+Vladimír Coufal,cz CZE,DF,30,36,36,3132,0,7,0,7,1,0,0,West-Ham-United-
+Emerson Palmieri,it ITA,DF,28,36,35,3137,1,2,0,10,0,1,1,West-Ham-United-
+Jarrod Bowen,eng ENG,FW,26,34,34,3019,16,6,0,2,0,11,11,West-Ham-United-
+James Ward-Prowse,eng ENG,MF,28,37,34,3001,7,7,2,4,0,6,4,West-Ham-United-
+Tomáš Souček,cz CZE,MF,28,37,34,2870,7,2,0,7,0,6,6,West-Ham-United-
+Kurt Zouma,fr FRA,DF,28,33,32,2838,3,0,0,3,0,1,1,West-Ham-United-
+Alphonse Areola,fr FRA,GK,30,31,31,2699,0,0,0,1,0,0,0,West-Ham-United-
+Lucas Paquetá,br BRA,"FW,MF",25,31,31,2622,4,6,2,10,0,5,3,West-Ham-United-
+Edson Álvarez,mx MEX,MF,25,31,28,2377,1,1,0,11,0,1,1,West-Ham-United-
+Mohammed Kudus,gh GHA,"FW,MF",22,33,27,2484,8,6,0,6,0,5,5,West-Ham-United-
+Nayef Aguerd,ma MAR,DF,27,21,21,1857,1,0,0,3,1,1,1,West-Ham-United-
+Michail Antonio,jm JAM,FW,33,26,21,1695,6,2,0,6,0,5,5,West-Ham-United-
+Konstantinos Mavropanos,gr GRE,DF,25,19,16,1500,1,0,0,2,0,1,1,West-Ham-United-
+Łukasz Fabiański,pl POL,GK,38,10,7,721,0,0,0,0,0,0,0,West-Ham-United-
+Angelo Ogbonna,it ITA,DF,35,11,7,635,0,0,0,1,0,0,0,West-Ham-United-
+Saïd Benrahma,dz ALG,"FW,MF",27,13,5,620,0,1,0,1,0,1,1,West-Ham-United-
+Ben Johnson,eng ENG,"DF,FW",23,14,4,544,0,0,0,1,0,0,0,West-Ham-United-
+Aaron Cresswell,eng ENG,"DF,FW",33,11,4,436,0,0,0,1,0,0,0,West-Ham-United-
+Pablo Fornals,es ESP,"MF,FW",27,15,4,426,0,0,0,0,0,0,0,West-Ham-United-
+Danny Ings,eng ENG,FW,31,20,3,404,1,0,0,1,0,1,1,West-Ham-United-
+Kalvin Phillips,eng ENG,MF,27,8,3,309,0,0,0,3,1,0,0,West-Ham-United-
+Maxwel Cornet,ci CIV,"MF,FW",26,7,1,112,1,0,0,0,0,0,0,West-Ham-United-
+Divin Mubama,eng ENG,FW,18,5,0,80,0,0,0,0,0,0,0,West-Ham-United-
+George Earthy,eng ENG,FW,18,3,0,34,1,0,0,0,0,0,0,West-Ham-United-
+Thilo Kehrer,de GER,"DF,MF",26,4,0,22,0,0,0,2,0,0,0,West-Ham-United-
+Kaelan Casey,eng ENG,DF,18,1,0,1,0,0,0,0,0,0,0,West-Ham-United-
+Joseph Anang,eng ENG,GK,23,0,0,0,0,0,0,0,0,0,0,West-Ham-United-
+Conor Coventry,ie IRL,MF,23,0,0,0,0,0,0,0,0,0,0,West-Ham-United-
+Levi Laing,eng ENG,DF,20,0,0,0,0,0,0,0,0,0,0,West-Ham-United-
+Callum Marshall,nir NIR,DF,18,0,0,0,0,0,0,0,0,0,0,West-Ham-United-
+Lewis Orford,eng ENG,MF,17,0,0,0,0,0,0,0,0,0,0,West-Ham-United-
+Oliver Scarles,eng ENG,DF,17,0,0,0,0,0,0,0,0,0,0,West-Ham-United-
+Squad Total,NULL,NULL,28,38,418,3420,58,40,4,82,3,52,48,West-Ham-United-
+Opponent Total,NULL,NULL,26,38,418,3420,70,51,8,71,2,71,63,West-Ham-United-
+Joachim Andersen,dk DEN,DF,27,0,38,3415,2,3,0,7,0,1,1,Crystal-Palace-
+Tyrick Mitchell,eng ENG,"DF,MF",23,0,37,3204,2,3,0,6,0,1,1,Crystal-Palace-
+Jordan Ayew,gh GHA,"FW,MF",31,0,30,2543,4,7,0,9,1,3,3,Crystal-Palace-
+Jefferson Lerma,co COL,"MF,DF",28,0,27,2400,1,1,0,8,0,2,2,Crystal-Palace-
+Jean-Philippe Mateta,fr FRA,FW,26,0,25,2282,16,5,2,3,0,10,9,Crystal-Palace-
+Eberechi Eze,eng ENG,"MF,FW",25,0,24,2055,11,4,1,3,0,9,8,Crystal-Palace-
+Chris Richards,us USA,"DF,MF",23,0,23,2094,1,1,0,3,0,0,0,Crystal-Palace-
+Marc Guéhi,eng ENG,DF,23,0,23,2021,0,1,0,2,0,0,0,Crystal-Palace-
+Joel Ward,eng ENG,DF,33,0,23,1980,0,1,0,4,0,0,0,Crystal-Palace-
+Will Hughes,eng ENG,MF,28,0,23,1891,0,1,0,6,0,0,0,Crystal-Palace-
+Sam Johnstone,eng ENG,GK,30,0,20,1796,0,0,0,1,0,0,0,Crystal-Palace-
+Dean Henderson,eng ENG,GK,26,0,18,1620,0,0,0,2,0,0,0,Crystal-Palace-
+Odsonne Édouard,fr FRA,"FW,MF",25,0,17,1555,7,0,0,4,0,6,6,Crystal-Palace-
+Jeffrey Schlupp,gh GHA,"FW,MF",30,0,17,1352,2,2,0,1,0,1,1,Crystal-Palace-
+Daniel Muñoz,co COL,"DF,MF",27,0,16,1439,0,4,0,4,0,1,1,Crystal-Palace-
+Adam Wharton,eng ENG,MF,19,0,15,1297,0,3,0,2,0,0,0,Crystal-Palace-
+Nathaniel Clyne,eng ENG,DF,32,0,14,1338,0,0,0,0,0,0,0,Crystal-Palace-
+Michael Olise,fr FRA,"FW,MF",21,0,14,1275,10,6,1,0,0,5,4,Crystal-Palace-
+Cheick Doucouré,ml MLI,MF,23,0,11,919,0,0,0,2,0,0,0,Crystal-Palace-
+Jaïro Riedewald,nl NED,"MF,FW",26,0,2,235,0,0,0,0,0,0,0,Crystal-Palace-
+Matheus França,br BRA,"MF,FW",19,0,1,232,0,1,0,1,0,0,0,Crystal-Palace-
+Naouirou Ahamada,fr FRA,"MF,FW",21,0,0,349,0,0,0,4,1,0,0,Crystal-Palace-
+David Ozoh,eng ENG,"MF,DF",18,0,0,156,0,0,0,1,0,0,0,Crystal-Palace-
+Jesurun Rak Sakyi,eng ENG,"MF,FW",20,0,0,136,0,0,0,0,0,0,0,Crystal-Palace-
+James Tomkins,eng ENG,DF,34,0,0,10,0,0,0,0,0,0,0,Crystal-Palace-
+Remi Matthews,eng ENG,GK,29,0,0,4,0,0,0,0,0,0,0,Crystal-Palace-
+Tayo Adaramola,ie IRL,DF,19,0,0,0,0,0,0,0,0,0,0,Crystal-Palace-
+Malcolm Ebiowei,eng ENG,MF,19,0,0,0,0,0,0,0,0,0,0,Crystal-Palace-
+John-Kymani Gordon,eng ENG,"FW,MF",20,0,0,0,0,0,0,0,0,0,0,Crystal-Palace-
+Rob Holding,eng ENG,DF,27,0,0,0,0,0,0,0,0,0,0,Crystal-Palace-
+Roshaun Mathurin,eng ENG,FW,19,0,0,0,0,0,0,0,0,0,0,Crystal-Palace-
+Ademola Ola-Adebomi,eng ENG,FW,19,0,0,0,0,0,0,0,0,0,0,Crystal-Palace-
+Luke Plange,eng ENG,FW,20,0,0,0,0,0,0,0,0,0,0,Crystal-Palace-
+Jadan Raymond,wls WAL,MF,19,0,0,0,0,0,0,0,0,0,0,Crystal-Palace-
+Kaden Rodney,eng ENG,DF,18,0,0,0,0,0,0,0,0,0,0,Crystal-Palace-
+Franco Umeh-Chibueze,ie IRL,MF,18,0,0,0,0,0,0,0,0,0,0,Crystal-Palace-
+Joseph Whitworth,eng ENG,GK,19,0,0,0,0,0,0,0,0,0,0,Crystal-Palace-
+Squad Total,NULL,NULL,26,0,418,3420,56,43,4,73,2,48,45,Crystal-Palace-
+Opponent Total,NULL,NULL,26,0,418,3420,56,46,3,78,2,52,49,Crystal-Palace-
+Pascal Groß,de GER,"MF,DF",32,36,34,3114,4,10,1,6,0,6,5,Brighton-and-Hove-Albion-
+Lewis Dunk,eng ENG,DF,31,33,33,2869,3,1,0,7,1,3,3,Brighton-and-Hove-Albion-
+Jan Paul van Hecke,nl NED,DF,23,28,26,2369,0,0,0,4,0,1,1,Brighton-and-Hove-Albion-
+Simon Adingra,ci CIV,FW,21,31,25,2222,6,1,0,3,0,4,4,Brighton-and-Hove-Albion-
+Billy Gilmour,sct SCO,MF,22,30,24,2120,0,1,0,8,1,1,1,Brighton-and-Hove-Albion-
+Bart Verbruggen,nl NED,GK,20,21,21,1890,0,0,0,3,0,0,0,Brighton-and-Hove-Albion-
+Danny Welbeck,eng ENG,"FW,MF",32,29,21,1693,5,1,0,4,0,5,5,Brighton-and-Hove-Albion-
+João Pedro,br BRA,"FW,MF",21,31,19,2045,9,3,4,2,0,11,7,Brighton-and-Hove-Albion-
+Igor,br BRA,DF,25,24,17,1637,0,0,0,4,0,0,0,Brighton-and-Hove-Albion-
+Joël Veltman,nl NED,DF,31,27,17,1588,1,1,0,4,0,0,0,Brighton-and-Hove-Albion-
+Jason Steele,eng ENG,GK,32,17,17,1530,0,0,0,0,0,0,0,Brighton-and-Hove-Albion-
+Facundo Buonanotte,ar ARG,"FW,MF",18,27,17,1364,3,1,0,7,0,2,2,Brighton-and-Hove-Albion-
+Kaoru Mitoma,jp JPN,FW,26,19,15,1486,3,4,0,4,0,3,3,Brighton-and-Hove-Albion-
+Evan Ferguson,ie IRL,FW,18,27,15,1367,6,0,0,1,0,4,4,Brighton-and-Hove-Albion-
+Carlos Baleba,cm CMR,MF,19,27,15,1325,0,0,0,7,0,0,0,Brighton-and-Hove-Albion-
+Pervis Estupiñán,ec ECU,DF,25,19,15,1243,2,3,0,4,0,1,1,Brighton-and-Hove-Albion-
+Adam Webster,eng ENG,DF,28,15,13,1144,0,0,0,2,0,0,0,Brighton-and-Hove-Albion-
+Adam Lallana,eng ENG,"MF,FW",35,25,13,850,0,1,0,2,0,0,0,Brighton-and-Hove-Albion-
+James Milner,eng ENG,"DF,MF",37,15,11,773,0,2,0,3,0,0,0,Brighton-and-Hove-Albion-
+Tariq Lamptey,gh GHA,"DF,FW",22,19,10,914,0,3,0,3,0,0,0,Brighton-and-Hove-Albion-
+Jack Hinshelwood,eng ENG,DF,18,12,8,869,3,0,0,1,0,1,1,Brighton-and-Hove-Albion-
+Solly March,eng ENG,"FW,DF",29,7,7,554,3,1,0,1,0,2,2,Brighton-and-Hove-Albion-
+Jakub Moder,pl POL,"MF,DF",24,17,6,618,0,0,0,2,0,0,0,Brighton-and-Hove-Albion-
+Mahmoud Dahoud,de GER,MF,27,9,6,452,0,1,0,1,1,0,0,Brighton-and-Hove-Albion-
+Julio Enciso,py PAR,"MF,FW",19,12,5,475,0,2,0,2,0,1,1,Brighton-and-Hove-Albion-
+Ansu Fati,es ESP,"MF,FW",20,19,3,521,2,0,0,2,0,3,3,Brighton-and-Hove-Albion-
+Valentín Barco,ar ARG,"DF,FW",19,6,3,307,0,0,0,1,0,0,0,Brighton-and-Hove-Albion-
+Odeluga Offiah,eng ENG,DF,20,4,1,128,0,0,0,0,0,0,0,Brighton-and-Hove-Albion-
+Mark O'Mahony,ie IRL,FW,18,3,1,63,0,0,0,1,0,0,0,Brighton-and-Hove-Albion-
+Benicio Boaitey,eng ENG,"FW,DF",19,5,0,40,0,0,0,1,0,0,0,Brighton-and-Hove-Albion-
+Steven Alzate,co COL,MF,24,0,0,40,0,0,0,1,0,0,0,Brighton-and-Hove-Albion-
+Bigo Atom,de GER,DF,18,0,0,40,0,0,0,1,0,0,0,Brighton-and-Hove-Albion-
+Luca Barrington,eng ENG,MF,18,0,0,40,0,0,0,1,0,0,0,Brighton-and-Hove-Albion-
+Samy Chouchane,tn TUN,MF,19,0,0,40,0,0,0,1,0,0,0,Brighton-and-Hove-Albion-
+Josh Duffus,eng ENG,MF,18,0,0,40,0,0,0,1,0,0,0,Brighton-and-Hove-Albion-
+Ben Jackson,eng ENG,DF,19,0,0,40,0,0,0,1,0,0,0,Brighton-and-Hove-Albion-
+Leigh Kavanagh,ie IRL,DF,19,0,0,40,0,0,0,1,0,0,0,Brighton-and-Hove-Albion-
+Cameron Peupion,au AUS,MF,20,0,0,40,0,0,0,1,0,0,0,Brighton-and-Hove-Albion-
+Imari Samuels,eng ENG,DF,20,0,0,40,0,0,0,1,0,0,0,Brighton-and-Hove-Albion-
+Squad Total,NULL,NULL,25,38,418,3420,50,36,5,90,3,56,52,Brighton-and-Hove-Albion-
+Opponent Total,NULL,NULL,26,38,418,3420,60,42,6,99,5,55,50,Brighton-and-Hove-Albion-
+Illia Zabarnyi,ua UKR,DF,20,0,37,3330,1,0,0,5,0,1,1,Bournemouth-
+Dominic Solanke,eng ENG,FW,25,0,37,3325,19,3,2,3,0,19,17,Bournemouth-
+Ryan Christie,sct SCO,MF,28,0,35,2907,0,5,0,6,0,2,2,Bournemouth-
+Neto,br BRA,GK,34,0,32,2880,0,0,0,5,0,0,0,Bournemouth-
+Lewis Cook,eng ENG,MF,26,0,32,2786,0,3,0,5,1,0,0,Bournemouth-
+Marcos Senesi,ar ARG,DF,26,0,26,2242,4,5,0,13,0,2,2,Bournemouth-
+Justin Kluivert,nl NED,"MF,FW",24,0,26,1916,7,1,0,5,0,6,6,Bournemouth-
+Adam Smith,eng ENG,DF,32,0,25,2150,0,2,0,6,0,0,0,Bournemouth-
+Marcus Tavernier,eng ENG,FW,24,0,25,2118,3,4,0,3,0,3,3,Bournemouth-
+Antoine Semenyo,gh GHA,FW,23,0,25,2105,8,2,0,6,0,4,4,Bournemouth-
+Milos Kerkez,hu HUN,DF,19,0,22,1970,0,1,0,4,1,1,1,Bournemouth-
+Lloyd Kelly,eng ENG,DF,24,0,17,1559,0,1,0,2,0,0,0,Bournemouth-
+Philip Billing,dk DEN,MF,27,0,13,1398,2,2,0,3,1,2,2,Bournemouth-
+Max Aarons,eng ENG,DF,23,0,13,1237,0,1,0,1,0,0,0,Bournemouth-
+Dango Ouattara,bf BFA,"FW,DF",21,0,12,1229,1,2,0,3,0,2,2,Bournemouth-
+Alex Scott,eng ENG,MF,19,0,11,1014,1,1,0,3,0,0,0,Bournemouth-
+Luis Sinisterra,co COL,"FW,MF",24,0,7,699,2,2,0,0,0,2,2,Bournemouth-
+Chris Mepham,wls WAL,DF,25,0,6,617,0,1,0,2,0,0,0,Bournemouth-
+Mark Travers,ie IRL,GK,24,0,4,360,0,0,0,0,0,0,0,Bournemouth-
+Joe Rothwell,eng ENG,MF,28,0,3,386,0,0,0,0,0,0,0,Bournemouth-
+Enes Ünal,tr TUR,"FW,MF",26,0,2,328,2,2,0,1,0,2,2,Bournemouth-
+David Brooks,wls WAL,"FW,MF",26,0,2,282,1,1,0,1,0,2,2,Bournemouth-
+Ionuț Radu,ro ROU,GK,26,0,2,180,0,0,0,0,0,0,0,Bournemouth-
+Jaidon Anthony,eng ENG,FW,23,0,2,152,0,0,0,1,0,0,0,Bournemouth-
+Tyler Adams,us USA,MF,24,0,1,121,0,0,0,0,0,0,0,Bournemouth-
+James Hill,eng ENG,DF,21,0,1,76,0,0,0,0,0,0,0,Bournemouth-
+Kieffer Moore,wls WAL,"FW,MF",30,0,0,108,1,0,0,0,0,1,1,Bournemouth-
+Hamed Junior Traorè,ci CIV,MF,23,0,0,47,0,0,0,0,0,0,0,Bournemouth-
+Romain Faivre,fr FRA,"MF,FW",25,0,0,41,0,0,0,1,0,0,0,Bournemouth-
+Dominic Sadi,eng ENG,FW,19,0,0,1,0,0,0,0,0,0,0,Bournemouth-
+Michael DaCosta,es ESP,FW,18,0,0,0,0,0,0,0,0,0,0,Bournemouth-
+Ben Greenwood,ie IRL,DF,20,0,0,0,0,0,0,0,0,0,0,Bournemouth-
+Gavin Kilkenny,ie IRL,MF,23,0,0,0,0,0,0,0,0,0,0,Bournemouth-
+Emiliano Marcondes,dk DEN,"FW,MF",28,0,0,0,0,0,0,0,0,0,0,Bournemouth-
+Callan Mckenna,sct SCO,GK,16,0,0,0,0,0,0,0,0,0,0,Bournemouth-
+Darren Randolph,ie IRL,GK,36,0,0,0,0,0,0,0,0,0,0,Bournemouth-
+Maxwell Wellings,eng ENG,DF,18,0,0,0,0,0,0,0,0,0,0,Bournemouth-
+Squad Total,NULL,NULL,25,0,418,3420,52,39,2,79,3,55,53,Bournemouth-
+Opponent Total,NULL,NULL,26,0,418,3420,66,44,6,82,2,58,52,Bournemouth-
+Bernd Leno,de GER,GK,31,38,38,3420,0,0,0,3,0,0,0,Fulham-
+Antonee Robinson,us USA,DF,25,37,37,3265,0,6,0,6,0,0,0,Fulham-
+Andreas Pereira,br BRA,MF,27,37,34,2613,3,7,0,6,0,4,4,Fulham-
+João Palhinha,pt POR,MF,28,33,31,2699,4,1,0,13,0,3,3,Fulham-
+Timothy Castagne,be BEL,DF,27,34,29,2634,1,3,0,3,0,1,1,Fulham-
+Calvin Bassey,ng NGA,DF,23,29,25,2303,1,0,0,6,1,0,0,Fulham-
+Alex Iwobi,ng NGA,"FW,MF",27,30,25,2192,5,2,0,2,0,5,5,Fulham-
+Willian,br BRA,FW,34,31,24,2053,4,2,2,1,0,5,3,Fulham-
+Tosin Adarabioyo,eng ENG,DF,25,20,18,1617,2,0,0,2,0,0,0,Fulham-
+Rodrigo Muniz,br BRA,FW,22,26,18,1593,9,1,0,1,0,8,8,Fulham-
+Raúl Jiménez,mx MEX,FW,32,24,18,1395,7,0,0,3,1,5,5,Fulham-
+Tim Ream,us USA,DF,35,18,17,1503,1,0,0,4,1,1,1,Fulham-
+Bobby Reid,jm JAM,FW,30,33,17,1423,6,2,0,4,0,4,4,Fulham-
+Harry Wilson,wls WAL,FW,26,35,16,1620,4,6,0,6,0,3,3,Fulham-
+Issa Diop,fr FRA,DF,26,18,16,1424,0,0,0,4,1,0,0,Fulham-
+Harrison Reed,eng ENG,MF,28,27,15,1325,0,2,0,6,0,0,0,Fulham-
+Tom Cairney,sct SCO,MF,32,34,14,1488,1,4,0,3,0,1,1,Fulham-
+Saša Lukić,rs SRB,MF,26,24,13,1122,1,0,0,3,0,1,1,Fulham-
+Kenny Tete,nl NED,DF,27,14,10,867,1,0,0,2,0,0,0,Fulham-
+Carlos Vinícius,br BRA,FW,28,13,2,315,2,0,0,2,0,1,1,Fulham-
+Adama Traoré,es ESP,"FW,MF",27,17,1,377,2,3,0,2,0,1,1,Fulham-
+Armando Broja,al ALB,FW,21,8,0,88,0,1,0,0,0,0,0,Fulham-
+Luke Harris,wls WAL,MF,18,1,0,75,0,0,0,0,0,0,0,Fulham-
+Fodé Ballo-Touré,sn SEN,"DF,MF",26,6,0,71,0,0,0,1,0,0,0,Fulham-
+Aleksandar Mitrović,rs SRB,FW,28,1,0,33,0,0,0,0,0,0,0,Fulham-
+Marek Rodák,sk SVK,GK,26,0,0,0,0,0,0,1,0,0,0,Fulham-
+Luc De Fougerolles,ca CAN,DF,17,0,0,0,0,0,0,0,0,0,0,Fulham-
+Matt Dibley-Dias,nz NZL,MF,19,0,0,0,0,0,0,0,0,0,0,Fulham-
+Tyrese Francois,au AUS,MF,23,0,0,0,0,0,0,0,0,0,0,Fulham-
+Joshua King,eng ENG,MF,16,0,0,0,0,0,0,0,0,0,0,Fulham-
+Kevin Mbabu,ch SUI,DF,28,0,0,0,0,0,0,0,0,0,0,Fulham-
+Kristian Sekularac,ch SUI,MF,19,0,0,0,0,0,0,0,0,0,0,Fulham-
+Jay Stansfield,eng ENG,"FW,MF",20,0,0,0,0,0,0,0,0,0,0,Fulham-
+Devan Tanton,co COL,DF,19,0,0,0,0,0,0,0,0,0,0,Fulham-
+Squad Total,NULL,NULL,28,38,418,3420,54,40,2,84,4,50,49,Fulham-
+Opponent Total,NULL,NULL,26,38,418,3420,57,36,8,65,0,62,56,Fulham-
+Max Kilman,eng ENG,DF,26,38,38,3420,2,0,0,7,0,1,1,Wolverhampton-Wanderers-
+Nélson Semedo,pt POR,"DF,MF",29,36,36,3084,0,1,0,10,1,1,1,Wolverhampton-Wanderers-
+José Sá,pt POR,GK,30,35,35,3037,0,1,0,1,0,0,0,Wolverhampton-Wanderers-
+Mario Lemina,ga GAB,MF,29,35,34,2968,4,1,0,12,1,4,4,Wolverhampton-Wanderers-
+João Gomes,br BRA,MF,22,34,32,2649,2,1,0,11,0,1,1,Wolverhampton-Wanderers-
+Toti Gomes,pt POR,DF,24,35,31,2772,1,3,0,7,0,1,1,Wolverhampton-Wanderers-
+Matheus Cunha,br BRA,"FW,MF",24,32,29,2440,12,7,1,9,0,9,8,Wolverhampton-Wanderers-
+Rayan Aït-Nouri,dz ALG,"DF,MF",22,33,29,2329,2,1,0,7,0,3,3,Wolverhampton-Wanderers-
+Craig Dawson,eng ENG,DF,33,25,25,2209,1,1,0,7,0,1,1,Wolverhampton-Wanderers-
+Hwang Hee-chan,kr KOR,"FW,MF",27,29,25,2119,12,3,1,6,0,7,6,Wolverhampton-Wanderers-
+Pablo Sarabia,es ESP,"MF,FW",31,30,20,1745,4,7,2,5,0,5,3,Wolverhampton-Wanderers-
+Pedro Neto,pt POR,"FW,MF",23,20,18,1516,2,9,0,4,0,3,3,Wolverhampton-Wanderers-
+Tommy Doyle,eng ENG,MF,21,26,11,1222,0,0,0,2,0,0,0,Wolverhampton-Wanderers-
+Jean-Ricner Bellegarde,fr FRA,"MF,FW",25,22,10,958,2,1,0,0,1,1,1,Wolverhampton-Wanderers-
+Matt Doherty,ie IRL,"DF,MF",31,30,9,1150,1,0,0,2,0,0,0,Wolverhampton-Wanderers-
+Santiago Bueno,uy URU,DF,24,12,9,822,0,0,0,1,0,0,0,Wolverhampton-Wanderers-
+Boubacar Traoré,ml MLI,MF,21,24,7,819,0,0,0,4,0,0,0,Wolverhampton-Wanderers-
+Hugo Bueno,es ESP,"DF,MF",20,22,7,741,0,0,0,1,0,0,0,Wolverhampton-Wanderers-
+Daniel Bentley,eng ENG,GK,30,5,3,383,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Fábio Silva,pt POR,FW,21,8,3,264,0,0,0,2,0,1,1,Wolverhampton-Wanderers-
+Matheus Nunes,pt POR,MF,24,2,2,179,0,0,0,2,1,0,0,Wolverhampton-Wanderers-
+Leon Chiwome,eng ENG,FW,17,3,2,174,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Nathan Fraser,ie IRL,FW,18,7,1,186,0,0,0,1,0,0,0,Wolverhampton-Wanderers-
+Sasa Kalajdzic,at AUT,FW,26,11,1,166,2,0,0,0,0,1,1,Wolverhampton-Wanderers-
+Tawanda Chirewa,zw ZIM,"MF,FW",19,8,1,145,0,0,0,1,0,0,0,Wolverhampton-Wanderers-
+Jonny Castro,es ESP,MF,29,1,0,5,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Enso Gonzalez,py PAR,"MF,DF",18,1,0,1,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Ty Barnett,eng ENG,FW,18,0,0,0,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Harvey Griffiths,eng ENG,MF,19,0,0,0,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Owen Hesketh,wls WAL,MF,20,0,0,0,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Joseph Hodge,ie IRL,MF,20,0,0,0,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Fletcher Holman,eng ENG,FW,18,0,0,0,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Justin Hubner,id IDN,DF,19,0,0,0,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Tom King,wls WAL,GK,28,0,0,0,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Noha Lemina,fr FRA,FW,18,0,0,0,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Yerson Mosquera,co COL,DF,22,0,0,0,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Temple Ojinnaka,it ITA,MF,18,0,0,0,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Wesley Okoduwa,eng ENG,FW,15,0,0,0,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Matthew Whittingham,eng ENG,MF,18,0,0,0,0,0,0,0,0,0,0,Wolverhampton-Wanderers-
+Squad Total,NULL,NULL,26,38,418,3420,47,36,4,102,4,46,43,Wolverhampton-Wanderers-
+Opponent Total,NULL,NULL,26,38,418,3420,64,43,8,84,3,67,61,Wolverhampton-Wanderers-
+Jordan Pickford,eng ENG,GK,29,38,38,3420,0,0,0,5,0,0,0,Everton-
+James Tarkowski,eng ENG,DF,30,38,38,3419,1,1,0,11,0,2,2,Everton-
+Jarrad Branthwaite,eng ENG,DF,21,35,35,3116,3,0,0,8,0,1,1,Everton-
+James Garner,eng ENG,MF,22,37,34,3004,1,2,0,7,0,2,2,Everton-
+Dwight McNeil,eng ENG,"MF,FW",23,35,33,2892,3,6,0,2,0,3,3,Everton-
+Abdoulaye Doucouré,ml MLI,"FW,MF",30,32,32,2629,7,1,0,7,0,8,8,Everton-
+Vitaliy Mykolenko,ua UKR,DF,24,28,28,2469,2,0,0,1,0,1,1,Everton-
+Ashley Young,eng ENG,"DF,MF",38,31,27,2280,0,0,0,7,1,0,0,Everton-
+Dominic Calvert-Lewin,eng ENG,FW,26,32,26,2171,7,2,2,2,0,12,11,Everton-
+Jack Harrison,eng ENG,"MF,FW",26,29,25,2214,3,3,0,1,0,3,3,Everton-
+Idrissa Gana Gueye,sn SEN,MF,33,25,24,1884,4,0,0,8,0,1,1,Everton-
+Amadou Onana,be BEL,MF,21,30,23,2091,2,0,0,5,0,2,2,Everton-
+Ben Godfrey,eng ENG,DF,25,15,13,1120,0,0,0,2,0,1,1,Everton-
+Nathan Patterson,sct SCO,DF,21,20,9,1005,0,2,0,4,0,0,0,Everton-
+Beto,gw GNB,FW,25,30,9,951,3,0,0,2,0,6,6,Everton-
+Séamus Coleman,ie IRL,DF,34,12,7,665,0,0,0,0,0,0,0,Everton-
+Arnaut Danjuma,nl NED,"MF,FW",26,14,5,595,1,0,0,0,0,2,2,Everton-
+Michael Keane,eng ENG,DF,30,9,4,439,1,0,0,2,0,0,0,Everton-
+André Gomes,pt POR,"MF,FW",30,12,3,508,1,0,0,4,0,0,0,Everton-
+Alex Iwobi,ng NGA,MF,27,2,2,140,0,0,0,0,0,0,0,Everton-
+Lewis Dobbin,eng ENG,MF,20,12,1,232,1,0,0,1,0,0,0,Everton-
+Youssef Chermiti,pt POR,FW,19,18,1,208,0,0,0,3,0,0,0,Everton-
+Neal Maupay,fr FRA,FW,26,2,1,111,0,0,0,0,0,1,1,Everton-
+Thomas Cannon,ie IRL,FW,20,1,0,1,0,0,0,0,0,0,0,Everton-
+Tyler Onyango,eng ENG,MF,20,1,0,1,0,0,0,0,0,0,0,Everton-
+Lewis Warrington,eng ENG,FW,20,1,0,1,0,0,0,0,0,0,0,Everton-
+Elijah Campbell,eng ENG,DF,18,0,0,0,0,0,0,0,0,0,0,Everton-
+William Crellin,eng ENG,GK,23,0,0,0,0,0,0,0,0,0,0,Everton-
+Mackenzie Hunt,eng ENG,DF,21,0,0,0,0,0,0,0,0,0,0,Everton-
+Andy Lonergan,ie IRL,GK,39,0,0,0,0,0,0,0,0,0,0,Everton-
+Jenson Metcalfe,eng ENG,MF,18,0,0,0,0,0,0,0,0,0,0,Everton-
+João Virgínia,pt POR,GK,23,0,0,0,0,0,0,0,0,0,0,Everton-
+Squad Total,NULL,NULL,27,38,418,3420,40,17,2,82,1,54,51,Everton-
+Opponent Total,NULL,NULL,26,38,418,3420,48,30,8,61,2,55,49,Everton-
+Mark Flekken,nl NED,GK,30,0,37,3285,0,1,0,3,0,0,0,Brentford-
+Vitaly Janelt,de GER,"MF,DF",25,0,37,3054,1,3,0,8,0,1,1,Brentford-
+Christian Nørgaard,dk DEN,MF,29,0,30,2505,2,1,0,8,0,3,3,Brentford-
+Nathan Collins,ie IRL,DF,22,0,29,2652,1,1,0,3,0,1,1,Brentford-
+Yoane Wissa,cd COD,FW,26,0,29,2493,12,3,0,7,0,10,10,Brentford-
+Ethan Pinnock,jm JAM,DF,30,0,28,2521,2,0,0,1,0,2,2,Brentford-
+Mathias Jensen,dk DEN,MF,27,0,27,2204,3,3,0,5,0,0,0,Brentford-
+Mads Roerslev,dk DEN,DF,24,0,22,1985,1,2,0,1,0,0,0,Brentford-
+Bryan Mbeumo,cm CMR,FW,23,0,22,1960,9,6,3,2,0,9,7,Brentford-
+Kristoffer Ajer,no NOR,DF,25,0,21,1832,2,1,0,5,0,1,1,Brentford-
+Ivan Toney,eng ENG,FW,27,0,16,1450,4,2,0,5,0,6,6,Brentford-
+Keane Lewis-Potter,eng ENG,"FW,DF",22,0,15,1441,3,1,0,0,0,6,6,Brentford-
+Ben Mee,eng ENG,DF,33,0,15,1272,2,0,0,1,1,1,1,Brentford-
+Sergio Reguilón,es ESP,DF,26,0,14,1118,0,4,0,4,1,0,0,Brentford-
+Neal Maupay,fr FRA,FW,26,0,13,1321,6,3,0,8,0,5,5,Brentford-
+Mathias Jørgensen,dk DEN,DF,33,0,12,1087,1,0,0,4,0,0,0,Brentford-
+Frank Onyeka,ng NGA,MF,25,0,11,1161,1,2,0,8,0,2,2,Brentford-
+Aaron Hickey,sct SCO,DF,21,0,9,713,0,0,0,5,0,0,0,Brentford-
+Mikkel Damsgaard,dk DEN,MF,23,0,7,842,0,2,0,2,0,0,0,Brentford-
+Saman Ghoddos,ir IRN,DF,29,0,7,739,1,0,0,5,0,0,0,Brentford-
+Yehor Yarmoliuk,ua UKR,MF,19,0,6,688,0,0,0,2,0,1,1,Brentford-
+Rico Henry,eng ENG,DF,26,0,5,401,0,1,0,1,0,0,0,Brentford-
+Kevin Schade,de GER,"FW,MF",21,0,3,333,2,1,0,0,0,1,1,Brentford-
+Shandon Baptiste,gd GRN,MF,25,0,2,229,1,1,0,1,0,0,0,Brentford-
+Thomas Strakosha,al ALB,GK,28,0,1,135,0,0,0,0,0,0,0,Brentford-
+Michael Olakigbe,eng ENG,"DF,FW",19,0,0,59,0,0,0,0,0,0,0,Brentford-
+Josh Dasilva,eng ENG,"DF,FW",24,0,0,24,0,0,0,0,0,0,0,Brentford-
+Myles Peart-Harris,eng ENG,"DF,MF",20,0,0,13,0,0,0,0,0,0,0,Brentford-
+Val Adedokun,ie IRL,FW,20,0,0,13,0,0,0,0,0,0,0,Brentford-
+Vincent Angelini,sct SCO,GK,19,0,0,13,0,0,0,0,0,0,0,Brentford-
+Benjamin Arthur,eng ENG,DF,17,0,0,13,0,0,0,0,0,0,0,Brentford-
+Ellery Balcombe,eng ENG,GK,23,0,0,13,0,0,0,0,0,0,0,Brentford-
+Ethan Brierley,eng ENG,MF,19,0,0,13,0,0,0,0,0,0,0,Brentford-
+Yunus Emre Konak,tr TUR,MF,17,0,0,13,0,0,0,0,0,0,0,Brentford-
+Benjamin Fredrick,ng NGA,DF,18,0,0,13,0,0,0,0,0,0,0,Brentford-
+Charlie Goode,eng ENG,DF,27,0,0,13,0,0,0,0,0,0,0,Brentford-
+Kim Jisoo,kr KOR,DF,18,0,0,13,0,0,0,0,0,0,0,Brentford-
+Hákon Rafn Valdimarsson,is ISL,GK,21,0,0,13,0,0,0,0,0,0,0,Brentford-
+Ryan Trevitt,eng ENG,MF,20,0,0,13,0,0,0,0,0,0,0,Brentford-
+Squad Total,NULL,NULL,26,0,418,3420,54,38,3,89,2,58,56,Brentford-
+Opponent Total,NULL,NULL,26,0,418,3420,65,50,2,75,4,56,54,Brentford-
+Morgan Gibbs-White,eng ENG,"MF,FW",23,0,35,3156,5,10,1,9,0,6,6,Nottingham-Forest-
+Murillo,br BRA,DF,21,0,32,2789,0,2,0,5,0,1,1,Nottingham-Forest-
+Anthony Elanga,se SWE,"FW,MF",21,0,25,2433,5,9,0,1,0,6,6,Nottingham-Forest-
+Ryan Yates,eng ENG,MF,25,0,21,1992,1,1,0,6,0,2,2,Nottingham-Forest-
+Callum Hudson-Odoi,eng ENG,"FW,MF",22,0,20,1854,8,1,0,0,0,2,2,Nottingham-Forest-
+Chris Wood,nz NZL,FW,31,0,20,1812,14,1,0,0,0,11,11,Nottingham-Forest-
+Danilo,br BRA,MF,22,0,20,1792,2,2,0,4,0,1,1,Nottingham-Forest-
+Ola Aina,ng NGA,DF,26,0,20,1692,1,1,0,3,0,0,0,Nottingham-Forest-
+Orel Mangala,be BEL,MF,25,0,19,1563,1,0,0,6,0,0,0,Nottingham-Forest-
+Nicolás Domínguez,ar ARG,"MF,FW",25,0,19,1495,2,2,0,4,0,1,1,Nottingham-Forest-
+Neco Williams,wls WAL,DF,22,0,18,1637,0,1,0,4,0,0,0,Nottingham-Forest-
+Willy Boly,ci CIV,DF,32,0,18,1438,2,1,0,3,1,1,1,Nottingham-Forest-
+Matt Turner,us USA,GK,29,0,17,1530,0,0,0,2,0,0,0,Nottingham-Forest-
+Matz Sels,be BEL,GK,31,0,16,1440,0,0,0,1,0,0,0,Nottingham-Forest-
+Moussa Niakhate,sn SEN,DF,27,0,15,1460,1,0,0,5,1,1,1,Nottingham-Forest-
+Harry Toffolo,eng ENG,DF,27,0,15,1459,1,3,0,3,0,1,1,Nottingham-Forest-
+Ibrahim Sangaré,ci CIV,MF,25,0,13,1035,0,0,0,6,0,0,0,Nottingham-Forest-
+Taiwo Awoniyi,ng NGA,FW,25,0,12,1042,6,3,0,2,0,4,4,Nottingham-Forest-
+Serge Aurier,ci CIV,"DF,MF",30,0,10,833,0,2,0,2,0,0,0,Nottingham-Forest-
+Gonzalo Montiel,ar ARG,DF,26,0,8,801,0,2,0,5,0,0,0,Nottingham-Forest-
+Andrew Omobamidele,ie IRL,DF,21,0,8,783,0,0,0,2,0,0,0,Nottingham-Forest-
+Divock Origi,be BEL,FW,28,0,6,606,0,1,0,1,0,1,1,Nottingham-Forest-
+Nuno Tavares,pt POR,DF,23,0,5,457,0,0,0,2,0,0,0,Nottingham-Forest-
+Odisseas Vlachodimos,gr GRE,GK,29,0,5,450,0,0,0,0,0,0,0,Nottingham-Forest-
+Joe Worrall,eng ENG,DF,26,0,5,439,0,0,0,0,1,0,0,Nottingham-Forest-
+Scott McKenna,sct SCO,DF,26,0,5,416,0,0,0,0,0,0,0,Nottingham-Forest-
+Felipe,br BRA,DF,34,0,4,375,0,0,0,4,0,0,0,Nottingham-Forest-
+Brennan Johnson,wls WAL,"FW,MF",22,0,3,237,0,0,0,0,0,0,0,Nottingham-Forest-
+Gio Reyna,us USA,"FW,MF",20,0,2,235,0,1,0,0,0,0,0,Nottingham-Forest-
+Cheikhou Kouyaté,sn SEN,MF,33,0,2,212,0,0,0,2,0,0,0,Nottingham-Forest-
+Rodrigo Ribeiro,pt POR,"MF,FW",18,0,0,17,0,0,0,0,0,0,0,Nottingham-Forest-
+Andrey Santos,br BRA,MF,19,0,0,8,0,0,0,0,0,0,0,Nottingham-Forest-
+Brandon Aguilera,cr CRC,FW,20,0,0,5,0,0,0,0,0,0,0,Nottingham-Forest-
+Remo Freuler,ch SUI,MF,31,0,0,5,0,0,0,0,0,0,0,Nottingham-Forest-
+Joe Gardner,eng ENG,DF,18,0,0,5,0,0,0,0,0,0,0,Nottingham-Forest-
+Wayne Hennessey,wls WAL,GK,36,0,0,5,0,0,0,0,0,0,0,Nottingham-Forest-
+Ethan Horvath,us USA,GK,28,0,0,5,0,0,0,0,0,0,0,Nottingham-Forest-
+Jamie McDonnell,nir NIR,MF,19,0,0,5,0,0,0,0,0,0,0,Nottingham-Forest-
+Lewis O'Brien,eng ENG,MF,24,0,0,5,0,0,0,0,0,0,0,Nottingham-Forest-
+Detlef Osong,eng ENG,FW,18,0,0,5,0,0,0,0,0,0,0,Nottingham-Forest-
+Hwang Ui-jo,kr KOR,"FW,MF",30,0,0,5,0,0,0,0,0,0,0,Nottingham-Forest-
+Squad Total,NULL,NULL,25,0,418,3420,49,43,1,82,3,49,49,Nottingham-Forest-
+Opponent Total,NULL,NULL,26,0,418,3420,65,48,4,81,7,53,50,Nottingham-Forest-
+Thomas Kaminski,be BEL,GK,30,38,38,3405,0,0,0,3,0,0,0,Luton-Town-
+Alfie Doughty,eng ENG,DF,23,37,34,2925,2,8,0,5,0,1,1,Luton-Town-
+Carlton Morris,eng ENG,"FW,MF",27,38,32,2862,11,4,5,4,0,11,7,Luton-Town-
+Ross Barkley,eng ENG,MF,29,32,30,2618,5,4,0,6,0,4,4,Luton-Town-
+Teden Mengi,eng ENG,DF,21,30,28,2469,1,0,0,3,0,0,0,Luton-Town-
+Gabriel Osho,ng NGA,DF,24,21,21,1846,2,0,0,3,0,1,1,Luton-Town-
+Issa Kaboré,bf BFA,DF,22,24,21,1729,0,2,0,7,0,0,0,Luton-Town-
+Amari'i Bell,jm JAM,DF,29,21,21,1720,0,0,0,0,0,0,0,Luton-Town-
+Chiedozie Ogbene,ie IRL,"MF,DF",26,30,20,1995,4,1,0,1,0,4,4,Luton-Town-
+Tahith Chong,nl NED,"MF,FW",23,33,20,1982,4,0,0,4,0,2,2,Luton-Town-
+Reece Burke,eng ENG,DF,26,22,20,1660,0,4,0,5,0,1,1,Luton-Town-
+Elijah Adebayo,eng ENG,FW,25,27,16,1419,10,0,0,1,0,5,5,Luton-Town-
+Albert Sambi Lokonga,be BEL,MF,23,17,16,1303,1,3,0,4,0,0,0,Luton-Town-
+Jordan Clark,eng ENG,MF,29,23,14,1304,1,1,0,4,0,1,1,Luton-Town-
+Andros Townsend,eng ENG,"MF,FW",32,27,14,1210,1,3,0,1,0,1,1,Luton-Town-
+Tom Lockyer,wls WAL,DF,28,14,14,1169,1,1,0,4,0,1,1,Luton-Town-
+Marvelous Nakamba,zw ZIM,MF,29,13,13,1130,0,0,0,5,0,0,0,Luton-Town-
+Jacob Brown,sct SCO,"MF,FW",25,19,12,1019,2,0,0,4,0,2,2,Luton-Town-
+Pelly Ruddock Mpanzu,cd COD,MF,30,27,11,1101,0,0,0,1,0,0,0,Luton-Town-
+Daiki Hashioka,jp JPN,DF,24,10,6,595,0,0,0,0,0,0,0,Luton-Town-
+Ryan John Giles,eng ENG,"DF,MF",23,11,5,503,0,0,0,0,0,0,0,Luton-Town-
+Fred Onyedinma,eng ENG,"DF,MF",26,8,4,407,0,0,0,1,0,0,0,Luton-Town-
+Mads Juel Andersen,dk DEN,DF,25,8,4,400,1,0,0,1,0,0,0,Luton-Town-
+Cauley Woodrow,eng ENG,"FW,MF",28,24,2,427,1,1,0,2,0,1,1,Luton-Town-
+Luke Berry,eng ENG,"MF,DF",31,17,2,323,2,1,0,1,0,1,1,Luton-Town-
+Joseph Johnson,eng ENG,DF,17,2,0,77,0,0,0,1,0,0,0,Luton-Town-
+James Shea,eng ENG,GK,32,1,0,15,0,0,0,0,0,0,0,Luton-Town-
+Zack Nelson,eng ENG,"MF,DF",18,2,0,7,0,0,0,0,0,0,0,Luton-Town-
+Allan Campbell,sct SCO,MF,25,0,0,7,0,0,0,0,0,0,0,Luton-Town-
+Christian Chigozie,eng ENG,DF,16,0,0,7,0,0,0,0,0,0,0,Luton-Town-
+Aidan Francis,eng ENG,MF,20,0,0,7,0,0,0,0,0,0,0,Luton-Town-
+Taylan Harris,eng ENG,FW,17,0,0,7,0,0,0,0,0,0,0,Luton-Town-
+Tim Krul,nl NED,GK,35,0,0,7,0,0,0,0,0,0,0,Luton-Town-
+Jayden Luker,eng ENG,MF,18,0,0,7,0,0,0,0,0,0,0,Luton-Town-
+Dominic Martins,pt POR,MF,17,0,0,7,0,0,0,0,0,0,0,Luton-Town-
+John Mcatee,eng ENG,"FW,MF",24,0,0,7,0,0,0,0,0,0,0,Luton-Town-
+Axel Piesold,eng ENG,MF,18,0,0,7,0,0,0,0,0,0,0,Luton-Town-
+Dan Potts,eng ENG,DF,29,0,0,7,0,0,0,0,0,0,0,Luton-Town-
+Squad Total,NULL,NULL,26,38,418,3420,49,33,5,71,0,42,38,Luton-Town-
+Opponent Total,NULL,NULL,26,38,418,3420,81,57,4,73,2,78,74,Luton-Town-
+Sander Berge,no NOR,MF,25,37,34,3005,1,2,0,10,1,1,1,Burnley-
+Dara O'Shea,ie IRL,DF,24,33,32,2892,3,4,0,5,1,0,0,Burnley-
+James Trafford,eng ENG,GK,20,28,28,2520,0,0,0,2,0,0,0,Burnley-
+Zeki Amdouni,ch SUI,FW,22,34,27,1953,5,1,1,2,0,5,5,Burnley-
+Vitinho,br BRA,"DF,MF",24,32,26,2314,0,2,0,1,0,1,1,Burnley-
+Charlie Taylor,eng ENG,DF,29,28,25,2331,1,1,0,8,0,0,0,Burnley-
+Wilson Odobert,fr FRA,"MF,FW",18,29,25,2098,3,2,0,3,0,2,2,Burnley-
+Josh Brownhill,eng ENG,MF,27,33,23,2252,4,2,0,4,1,1,1,Burnley-
+Josh Cullen,ie IRL,MF,27,25,23,2057,2,3,0,9,0,0,0,Burnley-
+Lyle Foster,za RSA,"FW,MF",22,24,22,1899,5,3,0,0,1,4,4,Burnley-
+Jacob Bruun Larsen,dk DEN,"MF,FW",24,32,16,1249,6,0,1,1,0,5,4,Burnley-
+Maxime Estève,fr FRA,DF,21,16,15,1309,0,0,0,6,0,0,0,Burnley-
+Lorenz Assignon,tg TOG,DF,23,15,15,1234,1,2,0,5,1,0,0,Burnley-
+Jordan Beyer,de GER,DF,23,15,15,1234,0,1,0,6,0,0,0,Burnley-
+Luca Koleosho,it ITA,"MF,FW",18,15,13,974,1,1,0,0,0,2,2,Burnley-
+Jóhann Berg Guðmundsson,is ISL,"MF,FW",32,26,12,1192,1,3,0,2,0,1,1,Burnley-
+Ameen Al-Dakhil,be BEL,DF,21,13,12,1056,1,0,0,1,0,1,1,Burnley-
+Arijanet Muric,xk KVX,GK,24,10,10,900,0,0,0,0,0,0,0,Burnley-
+David Datro Fofana,ci CIV,FW,20,15,10,879,4,1,0,1,0,4,4,Burnley-
+Connor Roberts,wls WAL,DF,27,14,8,823,0,1,0,5,1,0,0,Burnley-
+Jay Rodriguez,eng ENG,FW,34,21,7,822,2,1,1,0,0,3,2,Burnley-
+Hannes Delcroix,be BEL,DF,24,12,5,589,0,0,0,2,0,0,0,Burnley-
+Aaron Ramsey,eng ENG,"MF,FW",20,14,5,527,0,0,0,1,0,0,0,Burnley-
+Hjalmar Ekdal,se SWE,DF,24,8,5,437,0,0,0,2,0,0,0,Burnley-
+Mike Trésor,be BEL,"FW,MF",24,16,3,420,0,0,0,0,0,0,0,Burnley-
+Anass Zaroury,ma MAR,"FW,MF",22,6,1,152,0,0,0,0,1,0,0,Burnley-
+Benson Manuel,ao ANG,"MF,FW",26,8,1,116,0,0,0,0,0,0,0,Burnley-
+Nathan Redmond,eng ENG,"FW,MF",29,12,0,142,0,0,0,1,0,0,0,Burnley-
+Jack Cork,eng ENG,MF,34,4,0,27,0,0,0,0,0,0,0,Burnley-
+Michael Obafemi,ie IRL,"FW,MF",23,2,0,20,0,0,0,0,0,0,0,Burnley-
+Han-Noah Massengo,fr FRA,"MF,DF",22,3,0,14,0,0,0,0,0,0,0,Burnley-
+CJ Egan-Riley,eng ENG,DF,20,0,0,13,16,0,0,0,0,0,0,Burnley-
+Lawrence Vigouroux,cl CHI,GK,29,0,0,16,0,0,0,0,0,0,0,Burnley-
+Squad Total,NULL,NULL,24,38,418,3420,40,30,3,77,7,40,38,Burnley-
+Opponent Total,NULL,NULL,26,38,418,3420,75,54,6,84,3,70,64,Burnley-
+Gustavo Hamer,nl NED,MF,26,36,34,2910,4,6,0,9,0,3,3,Sheffield-United-
+Jayden Bogle,eng ENG,DF,23,34,32,2788,3,0,0,9,0,2,2,Sheffield-United-
+Jack Robinson,eng ENG,DF,29,34,31,2885,1,1,0,10,0,1,1,Sheffield-United-
+Vinicius Souza,br BRA,MF,24,36,29,2668,1,0,0,3,0,0,0,Sheffield-United-
+Anel Ahmedhodžić,ba BIH,DF,24,31,29,2649,2,0,0,11,1,3,3,Sheffield-United-
+Wes Foderingham,eng ENG,GK,32,30,29,2649,0,0,0,2,0,0,0,Sheffield-United-
+Auston Trusty,us USA,DF,24,32,28,2572,0,0,0,4,0,0,0,Sheffield-United-
+Cameron Archer,eng ENG,"FW,MF",22,29,21,1832,4,1,0,1,0,5,5,Sheffield-United-
+James Mcatee,eng ENG,"MF,FW",20,30,20,1822,3,3,1,2,0,3,2,Sheffield-United-
+Oliver Norwood,nir NIR,MF,32,27,16,1440,1,0,1,8,0,1,0,Sheffield-United-
+Oliver McBurnie,sct SCO,FW,27,21,15,1280,6,3,2,7,2,6,5,Sheffield-United-
+Ben Osborn,eng ENG,"DF,MF",28,24,14,1367,0,2,0,3,0,0,0,Sheffield-United-
+Ben Brereton,cl CHI,"FW,MF",24,14,14,1105,6,1,1,3,0,6,5,Sheffield-United-
+Andre Brooks,eng ENG,"MF,DF",19,20,12,938,0,0,0,1,0,0,0,Sheffield-United-
+George Baldock,gr GRE,DF,30,13,11,969,0,1,0,4,0,0,0,Sheffield-United-
+Oliver Arblaster,eng ENG,MF,19,12,11,943,0,0,0,2,0,0,0,Sheffield-United-
+Luke Thomas,eng ENG,DF,22,12,11,917,0,0,0,3,0,0,0,Sheffield-United-
+William Osula,dk DEN,FW,19,21,9,786,0,0,0,4,0,1,1,Sheffield-United-
+Ivo Grbić,hr CRO,GK,27,9,9,771,0,0,0,1,0,0,0,Sheffield-United-
+Mason Holgate,eng ENG,DF,26,10,9,710,0,0,0,3,1,0,0,Sheffield-United-
+Yasser Larouci,dz ALG,DF,22,11,6,531,0,0,0,1,0,0,0,Sheffield-United-
+John Egan,ie IRL,DF,30,6,6,482,0,0,0,2,0,0,0,Sheffield-United-
+Max Lowe,eng ENG,"DF,MF",26,10,4,503,0,0,0,1,0,0,0,Sheffield-United-
+Anis Ben Slimane,tn TUN,MF,22,15,4,419,0,0,0,2,0,0,0,Sheffield-United-
+Bénie Adama Traore,ci CIV,"FW,MF",20,8,3,387,0,0,0,0,0,0,0,Sheffield-United-
+Rhian Brewster,eng ENG,"FW,MF",23,13,3,346,0,0,0,0,1,0,0,Sheffield-United-
+Chris Basham,eng ENG,"DF,MF",35,8,3,321,0,0,0,1,0,0,0,Sheffield-United-
+Tom Davies,eng ENG,MF,25,9,2,221,0,0,0,2,0,0,0,Sheffield-United-
+Rhys Norrington-Davies,wls WAL,DF,24,5,2,110,0,0,0,1,0,0,0,Sheffield-United-
+John Fleck,sct SCO,"MF,DF",31,4,1,92,0,0,0,1,0,0,0,Sheffield-United-
+Sam Curtis,ie IRL,DF,17,1,0,28,0,0,0,0,0,0,0,Sheffield-United-
+Daniel Jebbison,eng ENG,FW,19,1,0,21,0,0,0,0,0,0,0,Sheffield-United-
+Antwoine Hackford,eng ENG,FW,19,2,0,13,0,0,0,0,0,0,0,Sheffield-United-
+Sydie Peck,eng ENG,MF,18,1,0,10,0,0,0,0,0,0,0,Sheffield-United-
+Ryan One,sct SCO,FW,17,1,0,8,0,0,0,0,0,0,0,Sheffield-United-
+Jordan Amissah,gh GHA,GK,21,0,0,8,0,0,0,0,0,0,0,Sheffield-United-
+Billy Blacker,eng ENG,FW,17,0,0,8,0,0,0,0,0,0,0,Sheffield-United-
+Jili Buyabu,eng ENG,MF,21,0,0,8,0,0,0,0,0,0,0,Sheffield-United-
+Ismaila Cheick Coulibaly,ml MLI,MF,22,0,0,8,0,0,0,0,0,0,0,Sheffield-United-
+Adam Davies,wls WAL,GK,31,0,0,8,0,0,0,0,0,0,0,Sheffield-United-
+Owen Hampson,eng ENG,MF,18,0,0,8,0,0,0,0,0,0,0,Sheffield-United-
+Louie Marsh,eng ENG,FW,19,0,0,8,0,0,0,0,0,0,0,Sheffield-United-
+Dovydas Sasnauskas,NULL,DF,19,0,0,8,0,0,0,0,0,0,0,Sheffield-United-
+Femi Seriki,eng ENG,DF,21,0,0,8,0,0,0,0,0,0,0,Sheffield-United-
+Squad Total,NULL,df,25,38,418,3420,31,18,5,101,5,38,34,Sheffield-United-
+Opponent Total,NULL,full,26,38,418,3420,97,75,5,53,2,76,71,Sheffield-United-
