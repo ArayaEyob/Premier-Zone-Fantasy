@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import "./index.scss";
-import AnimatedLetters from "../AnimatedLetters";
+import AnimatedLetters from "../AnimatedLetters/inde";
 
 const TeamData = () => {
   const [loading, setLoading] = useState(true);

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import Loader from "react-loaders";
 import { Link } from 'react-router-dom';
 import "./index.scss";
-import AnimatedLetters from "../AnimatedLetters";
+import AnimatedLetters from "../AnimatedLetters/inde";
 import nationData from "../../data/nations.json";
 import { ReactCountryFlag } from 'react-country-flag';
 
