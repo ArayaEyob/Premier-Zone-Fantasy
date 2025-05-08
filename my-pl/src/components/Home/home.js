@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import Loader from 'react-loaders';
 import { Link } from 'react-router-dom';
 import LogoPL from '../../assets/images/PL.webp';
-import AnimatedLetters from '../AnimatedLetters/inde';
+import AnimatedLetters from '../AnimatedLetters';
 import './index.scss';
 
 const Home = () => {

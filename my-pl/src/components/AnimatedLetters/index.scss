@@ -13,7 +13,7 @@
     display: inline-block;
     animation-fill-mode: both;
   
-    &:hover {
+    & :hover {
       animation: rubberBand 1s;
       color: #ffd700;
     }
