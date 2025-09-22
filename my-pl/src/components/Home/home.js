@@ -32,7 +32,10 @@ const Home = () => {
                 <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={15} /> 
                 </h1>
                 <h2>Your home for everything Premier League related!</h2>
-                <Link to="/teams" className="flat-button">GET STARTED</Link>
+                <div className="home-buttons">
+                    <Link to="/stats" className="flat-button stats-button">LIVE STATS</Link>
+                    <Link to="/teams" className="flat-button">GET STARTED</Link>
+                </div>
             </div>
         </div>
         <Loader type="pacman" />

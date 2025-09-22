@@ -1,7 +1,7 @@
 import './index.scss';
 import { Link, NavLink } from "react-router-dom";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHome, faSearch, faTshirt, faBars, faClose, faUsers, faFlag } from '@fortawesome/free-solid-svg-icons';
+import { faHome, faSearch, faTshirt, faBars, faClose, faUsers, faFlag, faChartLine } from '@fortawesome/free-solid-svg-icons';
 import LogoPL from '../../assets/images/PL.webp';
 import LogoSubtitle from '../../assets/images/sub-logo.png';
 import { useState } from 'react';
@@ -17,6 +17,9 @@ const Sidebar = () => {
             <nav className={showNav ? 'mobile-show' : ""}>
                 <NavLink exact="true" activeclassname = "active" to="/">
                     <FontAwesomeIcon icon = {faHome}  onClick={() => setShowNav(false)} />
+                </NavLink>
+                <NavLink exact="true" activeclassname = "active" className = "stats-link" to="/stats">
+                    <FontAwesomeIcon icon = {faChartLine} onClick={() => setShowNav(false)} />
                 </NavLink>
                 <NavLink exact="true" activeclassname = "active" className = "teams-link" to="/teams">
                     <FontAwesomeIcon icon = {faTshirt} onClick={() => setShowNav(false)} />
